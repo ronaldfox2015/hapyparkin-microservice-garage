@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.WebApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-21T22:45:20.0625365Z;True|2023-05-21T17:44:28.5483851-05:00;True|2023-05-21T17:43:36.0050338-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

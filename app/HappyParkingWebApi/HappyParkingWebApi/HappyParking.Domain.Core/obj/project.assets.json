@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "HappyParking.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HappyParking.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HappyParking.Domain.Entity.dll": {}
+        }
+      },
+      "HappyParking.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HappyParking.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HappyParking.Domain.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HappyParking.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../HappyParking.Domain.Entity/HappyParking.Domain.Entity.csproj",
+      "msbuildProject": "../HappyParking.Domain.Entity/HappyParking.Domain.Entity.csproj"
+    },
+    "HappyParking.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../HappyParking.Domain.Interface/HappyParking.Domain.Interface.csproj",
+      "msbuildProject": "../HappyParking.Domain.Interface/HappyParking.Domain.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "HappyParking.Domain.Entity >= 1.0.0",
+      "HappyParking.Domain.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PROGRAMDOR99\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Franklin\\HappyParkingWebApi\\HappyParkingWebApi\\HappyParking.Domain.Core\\HappyParking.Domain.Core.csproj",
+      "projectName": "HappyParking.Domain.Core",
+      "projectPath": "D:\\Franklin\\HappyParkingWebApi\\HappyParkingWebApi\\HappyParking.Domain.Core\\HappyParking.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\PROGRAMDOR99\\.nuget\\packages\\",
+      "outputPath": "D:\\Franklin\\HappyParkingWebApi\\HappyParkingWebApi\\HappyParking.Domain.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PROGRAMDOR99\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Franklin\\HappyParkingWebApi\\HappyParkingWebApi\\HappyParking.Domain.Entity\\HappyParking.Domain.Entity.csproj": {
+              "projectPath": "D:\\Franklin\\HappyParkingWebApi\\HappyParkingWebApi\\HappyParking.Domain.Entity\\HappyParking.Domain.Entity.csproj"
+            },
+            "D:\\Franklin\\HappyParkingWebApi\\HappyParkingWebApi\\HappyParking.Domain.Interface\\HappyParking.Domain.Interface.csproj": {
+              "projectPath": "D:\\Franklin\\HappyParkingWebApi\\HappyParkingWebApi\\HappyParking.Domain.Interface\\HappyParking.Domain.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

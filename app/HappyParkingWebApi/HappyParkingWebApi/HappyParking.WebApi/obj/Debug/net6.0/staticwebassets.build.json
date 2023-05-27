@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nuVgFMwTGNg+F0ltSb7Ry1BAGqT4Y38v6Kbc5DzgGEk=",
+  "Source": "HappyParking.WebApi",
+  "BasePath": "_content/HappyParking.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

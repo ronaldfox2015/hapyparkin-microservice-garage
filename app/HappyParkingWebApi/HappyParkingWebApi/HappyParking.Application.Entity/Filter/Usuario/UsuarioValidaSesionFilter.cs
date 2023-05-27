@@ -1,0 +1,22 @@
+﻿using HappyParking.Domain.Entity;
+using System.ComponentModel;
+namespace HappyParking.Application.Entity
+{
+    public class UsuarioValidaSesionFilter
+    {
+        [DefaultValue("")]
+        public string Correo { get; set; } = "";
+        [DefaultValue("")]
+        public string Clave { get; set; } = "";
+        public int IdRol { get; set; } = 0;
+        public static Func<UsuarioValidaSesionFilter, Usuario> UsuarioInsertarRequestToUsuario = e => new Usuario
+        {
+            Correo = e.Correo,
+            Clave = e.Clave,
+            Estado = e.IdRol,
+            Filtros = new ComunRequest(),
+            Retorno = new RetornoResponse()
+
+        };
+    }
+}

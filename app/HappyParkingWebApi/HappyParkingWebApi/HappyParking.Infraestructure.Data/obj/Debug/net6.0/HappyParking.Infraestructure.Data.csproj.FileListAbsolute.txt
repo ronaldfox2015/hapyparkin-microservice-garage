@@ -1,0 +1,17 @@
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\bin\Debug\net6.0\HappyParking.Infraestructure.Data.deps.json
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\bin\Debug\net6.0\HappyParking.Infraestructure.Data.dll
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\bin\Debug\net6.0\HappyParking.Infraestructure.Data.pdb
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\bin\Debug\net6.0\HappyParking.Infraestructure.Interface.dll
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\bin\Debug\net6.0\HappyParking.Infraestructure.Interface.pdb
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.csproj.AssemblyReference.cache
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.AssemblyInfo.cs
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.csproj.CopyComplete
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.dll
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\refint\HappyParking.Infraestructure.Data.dll
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\HappyParking.Infraestructure.Data.pdb
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\obj\Debug\net6.0\ref\HappyParking.Infraestructure.Data.dll
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\bin\Debug\net6.0\HappyParking.Entity.dll
+D:\Franklin\HappyParkingWebApi\HappyParkingWebApi\HappyParking.Infraestructure.Data\bin\Debug\net6.0\HappyParking.Entity.pdb

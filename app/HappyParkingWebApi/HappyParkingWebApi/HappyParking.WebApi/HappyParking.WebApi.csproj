@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HappyParking.Infraestructure.Data\HappyParking.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\HappyParking.Infraestructure.Interface\HappyParking.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\HappyParking.Infraestructure.Repository\HappyParking.Infraestructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

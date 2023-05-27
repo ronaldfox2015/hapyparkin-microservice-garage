@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HappyParking.Infraestructure.Interface/1.0.0": {
+        "dependencies": {
+          "HappyParking.Entity": "1.0.0"
+        },
+        "runtime": {
+          "HappyParking.Infraestructure.Interface.dll": {}
+        }
+      },
+      "HappyParking.Entity/1.0.0": {
+        "runtime": {
+          "HappyParking.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HappyParking.Infraestructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HappyParking.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

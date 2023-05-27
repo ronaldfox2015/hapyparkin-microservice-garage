@@ -1,0 +1,114 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyParking.Entity", "HappyParking.Entity\HappyParking.Entity.csproj", "{DD288CA4-6123-4158-9661-EF5EE08FAE54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyParking.Infraestructure.Interface", "HappyParking.Infraestructure.Interface\HappyParking.Infraestructure.Interface.csproj", "{21E43236-116F-436B-882C-555F8B290AE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyParking.Infraestructure.Data", "HappyParking.Infraestructure.Data\HappyParking.Infraestructure.Data.csproj", "{D31EA0F4-A6C2-4D84-B68C-801BEB422A55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyParking.Infraestructure.Repository", "HappyParking.Infraestructure.Repository\HappyParking.Infraestructure.Repository.csproj", "{CD7480D4-08AC-4300-92B9-7BCDB03A98E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyParking.WebApi", "HappyParking.WebApi\HappyParking.WebApi.csproj", "{CD2259BF-42B8-4502-86C6-B2C9C99F77B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{78ADEC13-7BC7-40BF-87AA-0F21A8E94B36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraestructure", "{EC1BA014-45D1-4A15-A4FA-4B4B76ECEA9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{D71DF61E-E43A-4C9D-B34F-9CFAACDA8019}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{DEB5EF52-CE86-4705-AA77-274CEE771B64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{92724DA9-DBCF-4ABE-86B7-DD52BD3A3F2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E195FC03-C456-4138-84B6-6C399666384B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyParking.Application.Entity", "HappyParking.Application.Entity\HappyParking.Application.Entity.csproj", "{7B9FAFCF-6E38-44A7-8617-6D3C0EC87D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyParking.Application.Interface", "HappyParking.Application.Interface\HappyParking.Application.Interface.csproj", "{D4249090-1CDF-44CB-AC91-0A1D0050B671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyParking.Application.Main", "HappyParking.Application.Main\HappyParking.Application.Main.csproj", "{FC20111D-F5B0-48E4-91DA-3E04E5002319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyParking.Domain.Entity", "HappyParking.Domain.Entity\HappyParking.Domain.Entity.csproj", "{89D3E9FF-DE29-4E32-89E0-5D2100F59826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyParking.Domain.Interface", "HappyParking.Domain.Interface\HappyParking.Domain.Interface.csproj", "{6DEA02CE-50A7-491F-A989-55A0CF1DACC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyParking.Domain.Core", "HappyParking.Domain.Core\HappyParking.Domain.Core.csproj", "{831EFE2D-614C-4793-B7D1-8C0AEA756598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD288CA4-6123-4158-9661-EF5EE08FAE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD288CA4-6123-4158-9661-EF5EE08FAE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD288CA4-6123-4158-9661-EF5EE08FAE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD288CA4-6123-4158-9661-EF5EE08FAE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E43236-116F-436B-882C-555F8B290AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E43236-116F-436B-882C-555F8B290AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E43236-116F-436B-882C-555F8B290AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E43236-116F-436B-882C-555F8B290AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31EA0F4-A6C2-4D84-B68C-801BEB422A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31EA0F4-A6C2-4D84-B68C-801BEB422A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31EA0F4-A6C2-4D84-B68C-801BEB422A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31EA0F4-A6C2-4D84-B68C-801BEB422A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7480D4-08AC-4300-92B9-7BCDB03A98E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7480D4-08AC-4300-92B9-7BCDB03A98E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7480D4-08AC-4300-92B9-7BCDB03A98E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7480D4-08AC-4300-92B9-7BCDB03A98E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2259BF-42B8-4502-86C6-B2C9C99F77B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2259BF-42B8-4502-86C6-B2C9C99F77B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2259BF-42B8-4502-86C6-B2C9C99F77B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2259BF-42B8-4502-86C6-B2C9C99F77B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9FAFCF-6E38-44A7-8617-6D3C0EC87D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9FAFCF-6E38-44A7-8617-6D3C0EC87D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9FAFCF-6E38-44A7-8617-6D3C0EC87D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9FAFCF-6E38-44A7-8617-6D3C0EC87D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4249090-1CDF-44CB-AC91-0A1D0050B671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4249090-1CDF-44CB-AC91-0A1D0050B671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4249090-1CDF-44CB-AC91-0A1D0050B671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4249090-1CDF-44CB-AC91-0A1D0050B671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC20111D-F5B0-48E4-91DA-3E04E5002319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC20111D-F5B0-48E4-91DA-3E04E5002319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC20111D-F5B0-48E4-91DA-3E04E5002319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC20111D-F5B0-48E4-91DA-3E04E5002319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D3E9FF-DE29-4E32-89E0-5D2100F59826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D3E9FF-DE29-4E32-89E0-5D2100F59826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D3E9FF-DE29-4E32-89E0-5D2100F59826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D3E9FF-DE29-4E32-89E0-5D2100F59826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEA02CE-50A7-491F-A989-55A0CF1DACC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEA02CE-50A7-491F-A989-55A0CF1DACC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEA02CE-50A7-491F-A989-55A0CF1DACC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEA02CE-50A7-491F-A989-55A0CF1DACC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831EFE2D-614C-4793-B7D1-8C0AEA756598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831EFE2D-614C-4793-B7D1-8C0AEA756598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831EFE2D-614C-4793-B7D1-8C0AEA756598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831EFE2D-614C-4793-B7D1-8C0AEA756598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DD288CA4-6123-4158-9661-EF5EE08FAE54} = {D71DF61E-E43A-4C9D-B34F-9CFAACDA8019}
+		{21E43236-116F-436B-882C-555F8B290AE0} = {EC1BA014-45D1-4A15-A4FA-4B4B76ECEA9C}
+		{D31EA0F4-A6C2-4D84-B68C-801BEB422A55} = {EC1BA014-45D1-4A15-A4FA-4B4B76ECEA9C}
+		{CD7480D4-08AC-4300-92B9-7BCDB03A98E6} = {EC1BA014-45D1-4A15-A4FA-4B4B76ECEA9C}
+		{CD2259BF-42B8-4502-86C6-B2C9C99F77B1} = {92724DA9-DBCF-4ABE-86B7-DD52BD3A3F2E}
+		{EC1BA014-45D1-4A15-A4FA-4B4B76ECEA9C} = {78ADEC13-7BC7-40BF-87AA-0F21A8E94B36}
+		{D71DF61E-E43A-4C9D-B34F-9CFAACDA8019} = {78ADEC13-7BC7-40BF-87AA-0F21A8E94B36}
+		{DEB5EF52-CE86-4705-AA77-274CEE771B64} = {78ADEC13-7BC7-40BF-87AA-0F21A8E94B36}
+		{92724DA9-DBCF-4ABE-86B7-DD52BD3A3F2E} = {78ADEC13-7BC7-40BF-87AA-0F21A8E94B36}
+		{7B9FAFCF-6E38-44A7-8617-6D3C0EC87D0E} = {DEB5EF52-CE86-4705-AA77-274CEE771B64}
+		{D4249090-1CDF-44CB-AC91-0A1D0050B671} = {DEB5EF52-CE86-4705-AA77-274CEE771B64}
+		{FC20111D-F5B0-48E4-91DA-3E04E5002319} = {DEB5EF52-CE86-4705-AA77-274CEE771B64}
+		{89D3E9FF-DE29-4E32-89E0-5D2100F59826} = {D71DF61E-E43A-4C9D-B34F-9CFAACDA8019}
+		{6DEA02CE-50A7-491F-A989-55A0CF1DACC3} = {D71DF61E-E43A-4C9D-B34F-9CFAACDA8019}
+		{831EFE2D-614C-4793-B7D1-8C0AEA756598} = {D71DF61E-E43A-4C9D-B34F-9CFAACDA8019}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1767DDA-01CB-4F31-B14F-4BC61BEEE9B8}
+	EndGlobalSection
+EndGlobal
